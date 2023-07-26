@@ -1,0 +1,72 @@
+#ma_page {
+width:100% ;
+height: 100% ;
+background-color:rgb(163, 156, 187);
+}
+#contenu {
+    width: 700px;
+    height: 630px;
+    background-color: #fff;
+    margin: auto;
+}
+.haut{
+    height: 150px;
+    background-color: rgb(136, 136, 91);
+  }
+  .haut a{
+    font-size:x-large;
+    border-style: solid;
+    margin: 6px;
+    padding: 2px;
+    background: orangered;
+    color: #fff;
+ }
+ .haut a:hover{
+    background: green;
+    color: yellow;
+    border-left: dotted;
+    border-right: groove;
+    border-top: dashed;
+    border-bottom: dotted;
+    
+ }
+.Milieu{
+    height: 460px;
+    background-color: rgb(138, 138, 133);
+    overflow: auto;
+}
+.milieu2{
+    height: 460px;
+    background-color: black;
+    color: #fff;
+    overflow: scroll;
+    text-align: justify;
+    font-family: Segoe print;
+    text-transform: capitalize;
+    font-size: 1em;
+    font-style: italic;
+}
+.milieu3{
+    height: 460px;
+    background-color: rgb(31, 3, 34);
+    color: #fff;
+    overflow: scroll;
+    text-align: justify;
+    font-family: Segoe print;
+    text-transform: capitalize;
+    font-size: 1em;
+    font-style: italic;
+    
+     }
+     .Milieu5{
+        height: 460px;
+        background-color: rgb(242, 242, 235);
+        overflow: auto;
+    }
+     
+.Pied{
+    height: 50px;
+    background-color:rgb(85, 35, 35);
+    color: #fff;
+    font-size: 1em;
+}
